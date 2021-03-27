@@ -1,7 +1,3 @@
-//package com.bham.pij.assignments.calculator;
-
-// Charalampos 2165173
-
 import java.util.Scanner;
 
 public class Calculator 
